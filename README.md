@@ -10,3 +10,5 @@ This is a repo of programming stuff I like from what I learn.
 ### January 5, 2022
 - https://smartmockups.com/ is used to create 3D images. This can be used to create example book covers etc.
 
+### January 19, 2022
+- Markdown Heading Formating with Colors. https://www.w3schools.com/html/html_colors.asp
